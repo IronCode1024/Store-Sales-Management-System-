@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{D176D718-24B6-4C3A-BB40-65E0E51BAF72}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>NIKE_Project</RootNamespace>
+    <AssemblyName>NIKE Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="IrisSkin2">
+      <HintPath>..\..\irisskin2换肤组件\IrisSkin2.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Cashier.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Cashier.Designer.cs">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DBHelper.cs" />
+    <Compile Include="homePage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="homePage.Designer.cs">
+      <DependentUpon>homePage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="limit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="limit.Designer.cs">
+      <DependentUpon>limit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="LoginInfo.cs" />
+    <Compile Include="logon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="logon.Designer.cs">
+      <DependentUpon>logon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Register.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Register.Designer.cs">
+      <DependentUpon>Register.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SalesReturn.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SalesReturn.Designer.cs">
+      <DependentUpon>SalesReturn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Settings.cs" />
+    <Compile Include="SystemConfiguration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SystemConfiguration.Designer.cs">
+      <DependentUpon>SystemConfiguration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Warehousing.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Warehousing.Designer.cs">
+      <DependentUpon>Warehousing.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Cashier.resx">
+      <DependentUpon>Cashier.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="homePage.resx">
+      <DependentUpon>homePage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="limit.resx">
+      <DependentUpon>limit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="logon.resx">
+      <DependentUpon>logon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="Register.resx">
+      <DependentUpon>Register.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SalesReturn.resx">
+      <DependentUpon>SalesReturn.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SystemConfiguration.resx">
+      <DependentUpon>SystemConfiguration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Warehousing.resx">
+      <DependentUpon>Warehousing.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\3214468_173913299186_2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login_btn.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\nk.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\01.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\02.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\03.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\04.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\05.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\06.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\07.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\08.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\09.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\10.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pic_014.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\bg.jpg" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,101 @@
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.register.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.CashForm.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.register.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+D:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+D:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+D:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.CashForm.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Register.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+D:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+E:\U盘备份\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+E:\U盘备份\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+E:\U盘备份\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.limit.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Register.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.limit.resources
+D:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.limit.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SalesReturn.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SystemConfiguration.resources
+F:\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\IrisSkin2.dll
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SalesReturn.resources
+H:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SystemConfiguration.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.limit.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Register.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SalesReturn.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SystemConfiguration.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+E:\项目\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+H:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
+H:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe
+H:\项目\NIKE Project\NIKE Project\bin\Debug\NIKE Project.pdb
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csprojResolveAssemblyReference.cache
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Cashier.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.homePage.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.limit.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.logon.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.MainForm.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Properties.Resources.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Register.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SalesReturn.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.SystemConfiguration.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE_Project.Warehousing.resources
+H:\项目\NIKE Project\NIKE Project\obj\Debug\NIKE Project.csproj.GenerateResource.Cache
+F:\VS项目源码文件\NIKE专卖店销售系统\NIKE Project\NIKE Project\bin\Debug\NIKE Project.exe.config
+F:\VS项目源码文件\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.exe
+F:\VS项目源码文件\NIKE专卖店销售系统\NIKE Project\NIKE Project\obj\Debug\NIKE Project.pdb
